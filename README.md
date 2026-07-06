@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,5 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
