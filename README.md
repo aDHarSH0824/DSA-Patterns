@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0986-interval-list-intersections) |
 ## Two Pointers
@@ -28,10 +29,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
