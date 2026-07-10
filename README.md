@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0496-next-greater-element-i) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -88,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
