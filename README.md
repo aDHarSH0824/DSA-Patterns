@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0496-next-greater-element-i) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Stack
 |  |
 | ------- |
@@ -92,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0387-first-unique-character-in-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
