@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1004-max-consecutive-ones-iii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
