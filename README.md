@@ -83,3 +83,14 @@ DSA-Patterns/
   * [0383 - Ransom Note](./patterns/hash-table-counting/0383-ransom-note) (Easy)
   * [0409 - Longest Palindrome](./patterns/hash-table-counting/0409-longest-palindrome) (Easy)
   * [2287 - Rearrange Characters to Make Target String](./patterns/hash-table-counting/2287-rearrange-characters-to-make-target-string) (Easy)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
