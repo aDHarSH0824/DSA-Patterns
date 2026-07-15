@@ -91,6 +91,7 @@ DSA-Patterns/
 | [0033-search-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0274-h-index) |
 | [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
@@ -101,4 +102,12 @@ DSA-Patterns/
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
