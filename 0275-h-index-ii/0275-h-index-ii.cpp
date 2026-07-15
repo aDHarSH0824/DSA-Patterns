@@ -8,7 +8,7 @@ public:
         return ans>=mid;
     }
     int hIndex(vector<int>& citations) {
-        int low = 1,high = citations[citations.size()-1];
+        int low = 1,high = citations.size();
         while(low<=high){
             int mid = (low+high)/2;
             if(isitOkay(citations,mid)) low=mid+1;
