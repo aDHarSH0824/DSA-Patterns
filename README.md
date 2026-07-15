@@ -54,10 +54,19 @@ DSA-Patterns/
 *Used on a sorted boundary search space to achieve logarithmic runtime $O(\log n)$ by halving candidate options.*
 * **When to use**: Search space is sorted, or you need to find peak indexes, bounds, or search boundaries.
 * **Problems**:
+  * [0033 - Search in Rotated Sorted Array](./patterns/binary-search/0033-search-in-rotated-sorted-array) (Medium)
   * [0034 - Find First and Last Position of Element in Sorted Array](./patterns/binary-search/0034-find-first-and-last-position-of-element-in-sorted-array) (Medium)
+  * [0153 - Find Minimum in Rotated Sorted Array](./patterns/binary-search/0153-find-minimum-in-rotated-sorted-array) (Medium)
+  * [0154 - Find Minimum in Rotated Sorted Array II](./patterns/binary-search/0154-find-minimum-in-rotated-sorted-array-ii) (Hard)
   * [0162 - Find Peak Element](./patterns/binary-search/0162-find-peak-element) (Medium)
+  * [0275 - H-Index II](./patterns/binary-search/0275-h-index-ii) (Medium)
+  * [0410 - Split Array Largest Sum](./patterns/binary-search/0410-split-array-largest-sum) (Hard)
   * [0704 - Binary Search](./patterns/binary-search/0704-binary-search) (Easy)
   * [0852 - Peak Index in a Mountain Array](./patterns/binary-search/0852-peak-index-in-a-mountain-array) (Medium)
+  * [0875 - Koko Eating Bananas](./patterns/binary-search/0875-koko-eating-bananas) (Medium)
+  * [1011 - Capacity To Ship Packages Within D Days](./patterns/binary-search/1011-capacity-to-ship-packages-within-d-days) (Medium)
+  * [1482 - Minimum Number of Days to Make M Bouquets](./patterns/binary-search/1482-minimum-number-of-days-to-make-m-bouquets) (Medium)
+  * [2226 - Maximum Candies Allocated to K Children](./patterns/binary-search/2226-maximum-candies-allocated-to-k-children) (Medium)
 
 ### 5. Stack & Queue
 *Core linear data structures utilizing LIFO (Last In First Out) and FIFO (First In First Out) orderings to track state history.*
@@ -80,6 +89,7 @@ DSA-Patterns/
 *Utilizing dictionary hashing maps or fixed tables to achieve constant-time $O(1)$ lookups and track occurrences.*
 * **When to use**: Anagrams, checking existence of subsets, matching characters, or frequency comparison.
 * **Problems**:
+  * [0274 - H-Index](./patterns/hash-table-counting/0274-h-index) (Medium)
   * [0383 - Ransom Note](./patterns/hash-table-counting/0383-ransom-note) (Easy)
   * [0409 - Longest Palindrome](./patterns/hash-table-counting/0409-longest-palindrome) (Easy)
   * [2287 - Rearrange Characters to Make Target String](./patterns/hash-table-counting/2287-rearrange-characters-to-make-target-string) (Easy)
@@ -88,46 +98,46 @@ DSA-Patterns/
 ## Array
 |  |
 | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0033-search-in-rotated-sorted-array) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
-| [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0274-h-index) |
-| [0275-h-index-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0275-h-index-ii) |
-| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0410-split-array-largest-sum) |
-| [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
-| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
-| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
-| [2226-maximum-candies-allocated-to-k-children](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
+| [0275-h-index-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
 | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0033-search-in-rotated-sorted-array) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
-| [0275-h-index-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0275-h-index-ii) |
-| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0410-split-array-largest-sum) |
-| [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
-| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
-| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
-| [2226-maximum-candies-allocated-to-k-children](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0275-h-index-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
 |  |
 | ------- |
-| [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0274-h-index) |
+| [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
 ## Counting Sort
 |  |
 | ------- |
-| [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0274-h-index) |
+| [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
-| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0410-split-array-largest-sum) |
+| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
-| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0410-split-array-largest-sum) |
+| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
 | ------- |
-| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0410-split-array-largest-sum) |
+| [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
