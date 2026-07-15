@@ -94,6 +94,7 @@ DSA-Patterns/
 | [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0274-h-index) |
 | [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ DSA-Patterns/
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
 |  |
 | ------- |
