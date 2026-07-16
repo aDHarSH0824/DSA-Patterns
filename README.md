@@ -132,6 +132,7 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +141,16 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
