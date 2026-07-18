@@ -146,6 +146,7 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
@@ -159,4 +160,8 @@ DSA-Patterns/
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
