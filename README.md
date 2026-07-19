@@ -99,6 +99,7 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
@@ -164,4 +165,12 @@ DSA-Patterns/
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1071-greatest-common-divisor-of-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
