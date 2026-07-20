@@ -134,6 +134,7 @@ DSA-Patterns/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -165,10 +166,12 @@ DSA-Patterns/
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0022-generate-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
