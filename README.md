@@ -166,11 +166,13 @@ DSA-Patterns/
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0022-generate-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -185,4 +187,8 @@ DSA-Patterns/
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
