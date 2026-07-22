@@ -99,6 +99,7 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -174,6 +175,7 @@ DSA-Patterns/
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
