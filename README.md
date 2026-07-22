@@ -98,6 +98,7 @@ DSA-Patterns/
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
@@ -193,4 +194,8 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
