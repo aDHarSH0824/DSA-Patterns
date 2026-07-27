@@ -107,6 +107,7 @@ DSA-Patterns/
 | [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1260-shift-2d-grid) |
@@ -139,6 +140,7 @@ DSA-Patterns/
 | [0022-generate-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
