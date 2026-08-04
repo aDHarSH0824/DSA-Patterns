@@ -115,6 +115,7 @@ DSA-Patterns/
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/2226-maximum-candies-allocated-to-k-children) |
+| [3731-find-missing-elements](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
+| [3731-find-missing-elements](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -199,6 +201,7 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3731-find-missing-elements](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
