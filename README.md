@@ -115,6 +115,7 @@ DSA-Patterns/
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/2226-maximum-candies-allocated-to-k-children) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -202,6 +203,7 @@ DSA-Patterns/
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -299,4 +301,8 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
