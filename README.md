@@ -235,6 +235,7 @@ DSA-Patterns/
 | [0226-invert-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
@@ -254,6 +255,7 @@ DSA-Patterns/
 | [0226-invert-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0951-flip-equivalent-binary-trees) |
@@ -275,6 +277,7 @@ DSA-Patterns/
 | [0226-invert-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
@@ -312,4 +315,8 @@ DSA-Patterns/
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
