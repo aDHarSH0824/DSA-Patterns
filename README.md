@@ -104,6 +104,7 @@ DSA-Patterns/
 | [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
@@ -235,6 +236,7 @@ DSA-Patterns/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -284,6 +286,7 @@ DSA-Patterns/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -323,6 +326,7 @@ DSA-Patterns/
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
@@ -343,4 +347,5 @@ DSA-Patterns/
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
