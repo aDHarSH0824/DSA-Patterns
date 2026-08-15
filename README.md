@@ -103,6 +103,7 @@ DSA-Patterns/
 | [0046-permutations](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
@@ -205,6 +206,7 @@ DSA-Patterns/
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/3731-find-missing-elements) |
@@ -231,6 +233,7 @@ DSA-Patterns/
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0113-path-sum-ii) |
@@ -279,6 +282,7 @@ DSA-Patterns/
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0113-path-sum-ii) |
@@ -338,4 +342,5 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
