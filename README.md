@@ -209,6 +209,7 @@ DSA-Patterns/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -252,6 +253,7 @@ DSA-Patterns/
 | [0700-search-in-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -274,6 +276,7 @@ DSA-Patterns/
 | [0572-subtree-of-another-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0951-flip-equivalent-binary-trees) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -304,6 +307,7 @@ DSA-Patterns/
 | [0700-search-in-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -317,6 +321,7 @@ DSA-Patterns/
 | [0226-invert-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
 | ------- |
@@ -346,10 +351,19 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
