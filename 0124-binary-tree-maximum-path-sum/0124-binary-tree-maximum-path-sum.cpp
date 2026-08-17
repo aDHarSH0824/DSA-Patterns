@@ -16,12 +16,8 @@ public:
         int lsum  = max(0,maxSum(root->left,maxi));
         int rsum =  max(0,maxSum(root->right,maxi));
         int sums = lsum+rsum+root->val;
-        if(root->left!=NULL && root->right!=NULL){
-            maxi = max(maxi,sums);
-            return root->val+max(lsum,rsum);
-        }
-        maxi=max(maxi,sums);
-        return sums;
+        maxi = max(maxi,sums);
+        return root->val+max(lsum,rsum);
     }
     int maxPathSum(TreeNode* root) {
         int maxi = INT_MIN;
