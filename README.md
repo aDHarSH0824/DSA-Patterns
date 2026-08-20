@@ -107,6 +107,7 @@ DSA-Patterns/
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
@@ -198,6 +199,7 @@ DSA-Patterns/
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -273,6 +275,7 @@ DSA-Patterns/
 | [0129-sum-root-to-leaf-numbers](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -325,6 +328,7 @@ DSA-Patterns/
 | [0104-maximum-depth-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -375,4 +379,8 @@ DSA-Patterns/
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
