@@ -4,7 +4,7 @@ public:
         if(i<0 || i>=n || j<0 || j>=m) return false;
         return true;
     }
-    void dfs(vector<vector<char>>& grid,int& i,int& j,int n,int m,vector<vector<int>>& vis,vector<int>& x,vector<int>& y){
+    void dfs(vector<vector<char>>& grid,int i,int j,int n,int m,vector<vector<int>>& vis,vector<int>& x,vector<int>& y){
         vis[i][j] = 1;
         for(int k=0;k<4;k++){
             int row = i+x[k];
