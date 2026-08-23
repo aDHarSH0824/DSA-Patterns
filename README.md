@@ -98,6 +98,7 @@ DSA-Patterns/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0046-permutations) |
@@ -208,6 +209,7 @@ DSA-Patterns/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
