@@ -283,6 +283,7 @@ DSA-Patterns/
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0951-flip-equivalent-binary-trees) |
@@ -332,6 +333,7 @@ DSA-Patterns/
 | [0111-minimum-depth-of-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -385,4 +387,9 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
