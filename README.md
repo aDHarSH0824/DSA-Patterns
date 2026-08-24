@@ -116,6 +116,7 @@ DSA-Patterns/
 | [0746-min-cost-climbing-stairs](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1260-shift-2d-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -203,6 +204,7 @@ DSA-Patterns/
 | ------- |
 | [0200-number-of-islands](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -340,6 +342,7 @@ DSA-Patterns/
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
