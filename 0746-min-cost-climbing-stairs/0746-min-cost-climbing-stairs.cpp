@@ -3,7 +3,7 @@ public:
     int ans(vector<int>& cost,vector<int>& dp,int index){
         if(index<=1) return dp[index];
         if(dp[index]!=-1) return dp[index];
-        return dp[index] = cost[index]+min(ans(cost,dp,index-1),ans(cost,dp,index-2));
+        return dp[index] = cost[index]+min(ans(cost,dp,index-2),ans(cost,dp,index-1));
     }
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
@@ -12,6 +12,6 @@ public:
             dp[i]=-1;
         }
         dp[0]=cost[0],dp[1]=cost[1];
-        return min(ans(cost,dp,n-2),ans(cost,dp,n-1));
+        return min(ans(cost,dp,n-1),ans(cost,dp,n-2));
     }
 };
