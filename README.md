@@ -237,6 +237,7 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/backtracking/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-tree/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
@@ -254,6 +255,7 @@ DSA-Patterns/
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/dynamic-programming/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/dynamic-programming/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/math-simulation/1071-greatest-common-divisor-of-strings) |
@@ -488,4 +490,8 @@ DSA-Patterns/
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/graphs/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
