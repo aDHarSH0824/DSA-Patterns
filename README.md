@@ -195,6 +195,7 @@ DSA-Patterns/
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search-tree/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/graphs/0200-number-of-islands) |
 | [0274-h-index](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/hash-table-counting/0274-h-index) |
 | [0275-h-index-ii](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0275-h-index-ii) |
@@ -237,6 +238,7 @@ DSA-Patterns/
 | ------- |
 | [0022-generate-parentheses](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/backtracking/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-tree/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/binary-search/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/dynamic-programming/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/aDHarSH0824/DSA-Patterns/tree/master/patterns/dynamic-programming/0746-min-cost-climbing-stairs) |
